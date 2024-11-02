@@ -9,7 +9,7 @@ This project is a voice-controlled version of the classic Flappy Bird game using
 - **Voice Control**: Players can control the bird's movement using screams.
 - **Obstacle Generation**: Randomly generated pipes that the bird must navigate through.
 - **Scoring System**: Players earn points for each pipe they successfully pass.
-- **New Game Dynamics**: Introduced roof and floor teleportation that simplify gameplay, making it easier for players to enjoy the game.
+- **New Game Dynamics**: Introduced roof and floor teleportation that simplify gameplay, making it easier for players to enjoy the game.(makes the game beatable lol)
 
 ## Technologies Used
 
